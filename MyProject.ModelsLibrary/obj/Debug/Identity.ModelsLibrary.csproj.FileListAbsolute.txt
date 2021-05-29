@@ -1,0 +1,5 @@
+C:\Users\B\source\repos\BilaalsCustomIdentityAndDAL\MyProject.ModelsLibrary\bin\Debug\Identity.ModelsLibrary.dll
+C:\Users\B\source\repos\BilaalsCustomIdentityAndDAL\MyProject.ModelsLibrary\bin\Debug\Identity.ModelsLibrary.pdb
+C:\Users\B\source\repos\BilaalsCustomIdentityAndDAL\MyProject.ModelsLibrary\obj\Debug\Identity.ModelsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\B\source\repos\BilaalsCustomIdentityAndDAL\MyProject.ModelsLibrary\obj\Debug\Identity.ModelsLibrary.dll
+C:\Users\B\source\repos\BilaalsCustomIdentityAndDAL\MyProject.ModelsLibrary\obj\Debug\Identity.ModelsLibrary.pdb

@@ -1,0 +1,17 @@
+C:\Users\B\source\repos\BilaalsCustomIdentityAndDAL\MyProject.LogicLibrary\bin\Debug\Identity.ApiLibrary.dll.config
+C:\Users\B\source\repos\BilaalsCustomIdentityAndDAL\MyProject.LogicLibrary\bin\Debug\Identity.ApiLibrary.dll
+C:\Users\B\source\repos\BilaalsCustomIdentityAndDAL\MyProject.LogicLibrary\bin\Debug\Identity.ApiLibrary.pdb
+C:\Users\B\source\repos\BilaalsCustomIdentityAndDAL\MyProject.LogicLibrary\bin\Debug\EntityFramework.dll
+C:\Users\B\source\repos\BilaalsCustomIdentityAndDAL\MyProject.LogicLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\B\source\repos\BilaalsCustomIdentityAndDAL\MyProject.LogicLibrary\bin\Debug\Identity.DataLibrary.dll
+C:\Users\B\source\repos\BilaalsCustomIdentityAndDAL\MyProject.LogicLibrary\bin\Debug\Identity.ModelsLibrary.dll
+C:\Users\B\source\repos\BilaalsCustomIdentityAndDAL\MyProject.LogicLibrary\bin\Debug\Identity.ModelsLibrary.pdb
+C:\Users\B\source\repos\BilaalsCustomIdentityAndDAL\MyProject.LogicLibrary\bin\Debug\Identity.DataLibrary.pdb
+C:\Users\B\source\repos\BilaalsCustomIdentityAndDAL\MyProject.LogicLibrary\bin\Debug\Identity.DataLibrary.dll.config
+C:\Users\B\source\repos\BilaalsCustomIdentityAndDAL\MyProject.LogicLibrary\bin\Debug\EntityFramework.xml
+C:\Users\B\source\repos\BilaalsCustomIdentityAndDAL\MyProject.LogicLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\B\source\repos\BilaalsCustomIdentityAndDAL\MyProject.LogicLibrary\obj\Debug\Identity.ApiLibrary.csprojAssemblyReference.cache
+C:\Users\B\source\repos\BilaalsCustomIdentityAndDAL\MyProject.LogicLibrary\obj\Debug\Identity.ApiLibrary.csproj.CoreCompileInputs.cache
+C:\Users\B\source\repos\BilaalsCustomIdentityAndDAL\MyProject.LogicLibrary\obj\Debug\Identity.ApiLibrary.csproj.CopyComplete
+C:\Users\B\source\repos\BilaalsCustomIdentityAndDAL\MyProject.LogicLibrary\obj\Debug\Identity.ApiLibrary.dll
+C:\Users\B\source\repos\BilaalsCustomIdentityAndDAL\MyProject.LogicLibrary\obj\Debug\Identity.ApiLibrary.pdb

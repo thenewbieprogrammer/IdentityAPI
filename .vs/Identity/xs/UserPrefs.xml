@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{57153B21-1422-4D30-B34D-04B3F6F3E2C5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyProject.Web/Views/Web.config">
+    <Files>
+      <File FileName="MyProject.Web/Web.config" Line="25" Column="18" />
+      <File FileName="MyProject.Web/Startup.cs" />
+      <File FileName="MyProject.Web/Controllers/AccountController.cs" Line="154" Column="49" />
+      <File FileName="MyProject.DataLibrary/App.config" />
+      <File FileName="MyProject.ServicesLibrary/SendEmailService.cs" Line="12" Column="21" />
+      <File FileName="MyProject.Web/packages.config" />
+      <File FileName="MyProject.ModelsLibrary/User.cs" />
+      <File FileName="MyProject.Web/Views/Account/ResetPassword.cshtml" />
+      <File FileName="MyProject.Web/Views/Account/Register.cshtml" />
+      <File FileName="MyProject.Web/Models/SystemViewModels/RegisterViewModel.cs" Line="5" Column="18" />
+      <File FileName="MyProject.LogicLibrary/AuthApi.cs" />
+      <File FileName="MyProject.Web/Views/Web.config" Line="39" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="Identity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/bilaal/Desktop/BilaalsCustomIdentityAndDAL/MyProject.Web/Controllers/AccountController.cs" relfile="MyProject.Web/Controllers/AccountController.cs" line="155" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Identity.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
